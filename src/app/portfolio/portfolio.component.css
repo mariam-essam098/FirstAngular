@@ -1,0 +1,19 @@
+.portfolio {
+    height: 115vh;
+    
+}
+
+.layer {
+    background-color: #1abc9ce6;
+    opacity: 0;
+    cursor: pointer;
+    transition: 0.6s opacity;
+}
+
+.layer:hover {
+    opacity: 1;
+}
+
+.my-m {
+    margin-top: -42px;
+}
